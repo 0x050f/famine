@@ -9,7 +9,7 @@ Famine is a simple elf 64 bits virus (So only works on linux 64bits). The virus 
 
 ## Demo
 
-![alt text](https://raw.githubusercontent.com/ska42/famine/main/img/demo.png)
+![alt text](https://raw.githubusercontent.com/y3ll0w42/famine/main/img/demo.png)
 
 ## Compilation
 
